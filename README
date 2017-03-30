@@ -1,0 +1,5 @@
+Compile using the command ‘make’. It will create both the server and client executables.
+
+To see usage of each program run ‘./<program> -u’
+
+Did the C and Echo incentives.
